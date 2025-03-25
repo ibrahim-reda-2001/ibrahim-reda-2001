@@ -104,8 +104,4 @@ Daily driver tools: AWS ECS, Docker, Prometheus, and Python for infrastructure s
   </a>
 </p>
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahemida96&color=blueviolet" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/Ahemida96?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+
