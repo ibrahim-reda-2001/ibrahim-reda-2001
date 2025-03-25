@@ -79,14 +79,6 @@ Daily driver tools: AWS ECS, Docker, Prometheus, and Python for infrastructure s
 - Automated EC2 lifecycle management with AWS Lambda (**30% manual work reduction**) 🤖
 - Enhanced network uptime by **25%** through infrastructure optimization 📈
   
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahimreda&show_icons=true&theme=dark" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahimreda&theme=dark" width="45%"/>
-</p>
 
 ---
 
