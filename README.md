@@ -84,8 +84,8 @@ Daily driver tools: AWS ECS, Docker, Prometheus, and Python for infrastructure s
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahemida96&show_icons=true&theme=dark" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahemida96&theme=dark" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahimreda&show_icons=true&theme=dark" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahimreda&theme=dark" width="45%"/>
 </p>
 
 ---
